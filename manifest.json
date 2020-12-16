@@ -1,0 +1,8 @@
+{
+  "name": "Plex Download Link",
+  "version": "1.0",
+  "description": "Get the download link on Plex webpage. Click the button, and if a file that can be downloaded is found at current page, a link will appear to download it.",
+  "permissions": ["<all_urls>"],
+  "browser_action": {"default_popup": "popup.html"},
+  "manifest_version": 2
+}
